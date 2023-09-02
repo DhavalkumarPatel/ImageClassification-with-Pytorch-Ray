@@ -6,6 +6,13 @@ The goal of this repository is to explore the model training, tuning, and servin
 
 That's where Ray steps in. This remarkable framework offers distributed computing capabilities that enable us to train colossal models swiftly. It eliminates the need for expertise in infrastructure management, taking care of the heavy lifting. Moreover, transitioning from local development to a cloud environment is a breeze with Ray; no drastic code changes required. For an in-depth understanding of the framework, I urge you to refer to their [website](https://www.ray.io/).  In this implementation, the ResNet50 model with pretrained weights is finetuned on a selected dataset. 
 
+## Tools Used
+
+- **PyTorch:** For deep learning and neural networks.
+- <img src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_header_logo.png" alt="Ray" width="20"/>**Ray:** For distributed computing and parallelism.
+- **mlflow:** For experiment tracking.
+
+
 ## Credits and References
 - [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) by [Goku Mohandas](https://www.linkedin.com/in/goku/)
 - [pytorch/examples](https://github.com/pytorch/examples)
