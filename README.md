@@ -4,13 +4,14 @@ This repository contains a python modules for image classification using PyTorch
 ## Introduction
 The goal of this repository is to explore the model training, tuning, and serving using the Ray Framework. You might be wondering, why Ray? Over the past four years, my curiosity has been fueled by the desire to understand how these massive models are trained. Think about it&mdash;training a vision transformer on your laptop with millions of parameters or even conducting ablation studies seems like an insurmountable task.
 
-That's where Ray steps in. This remarkable framework offers distributed computing capabilities that enable us to train colossal models swiftly. It eliminates the need for expertise in infrastructure management, taking care of the heavy lifting. Moreover, transitioning from local development to a cloud environment is a breeze with Ray; no drastic code changes required. For an in-depth understanding of the framework, I urge you to refer to their [website](https://www.ray.io/).  In this implementation, the ResNet50 model with pretrained weights is finetuned on a selected dataset. 
+That's where Ray steps in. This remarkable framework offers distributed computing capabilities that enable us to train colossal models swiftly. It eliminates the need for expertise in infrastructure management, taking care of the heavy lifting. Moreover, transitioning from local development to a cloud environment is a breeze with Ray; no drastic code changes required. For an in-depth understanding of the framework, I urge you to refer to their documentation.  In this implementation, an end-to-end machine learning pipeline is implemented for an image classification task using the ResNet50 model with pretrained weights. Data preparation, Model Training and Tuning are done with the help of Ray. In addition, mlflow is used for experiment tracking and Gradio for model serving.
 
 ## Tools Used
 
-- <img src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4" alt="Ray" width="10"/>**PyTorch:** For deep learning and neural networks.
-- <img src="https://avatars.githubusercontent.com/u/22125274?s=48&v=4" alt="Ray" width="10"/>**Ray:** For distributed computing and parallelism.
-- <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="mlflow" width="10"/>  **mlflow:** For experiment tracking.
+- <img src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4" alt="Ray" width="50"/>
+- <img src="https://avatars.githubusercontent.com/u/22125274?s=48&v=4" alt="Ray" width="50"/>
+- <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="mlflow" width="50"/>
+- <img src="https://avatars.githubusercontent.com/u/51063788?s=48&v=4" alt="mlflow" width="50"/> 
 
 
 ## Credits and References
