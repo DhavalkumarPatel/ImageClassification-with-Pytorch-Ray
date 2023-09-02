@@ -1,3 +1,0 @@
-To open the dashboard:
-
-mlflow server -h 0.0.0.0 -p 8080 --backend-store-uri /home/dhaval/Projects/NewRay/results/mlflow_results
