@@ -9,7 +9,7 @@ That's where Ray steps in. This remarkable framework offers distributed computin
 ## Tools Used
 
 - **PyTorch:** For deep learning and neural networks.
-- <img src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_header_logo.png" alt="Ray" width="50"/>**Ray:** For distributed computing and parallelism.
+- <img src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_header_logo.png" alt="Ray" width="100"/>**Ray:** For distributed computing and parallelism.
 - **mlflow:** For experiment tracking.
 
 
