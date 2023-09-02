@@ -1,0 +1,18 @@
+train_loop_config:
+  input_size: 224
+  lr: 0.001
+  momentum: 0.9
+  batch_size: 32
+  num_epochs: 10
+
+scaling_config:
+  num_workers: 2
+  use_gpu: True
+  resources_per_worker:
+    CPU: 1
+    GPU: 1
+
+run_config:
+  name: "finetune-resnet"
+  storage_path: "/home/dhaval/Projects/NewRay/results/ray_results"
+  
