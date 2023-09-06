@@ -1,5 +1,5 @@
 # PyTorch-Ray-ImageClassification
-This repository contains a python modules for image classification using **[PyTorch](https://pytorch.org/)** and **[Ray](https://www.ray.io/)**, a distributed computing framework. *Train, Tune, and Serve Image Classifiers with ease.*
+This repository contains python modules for image classification using **[PyTorch](https://pytorch.org/)** and **[Ray](https://www.ray.io/)**, a distributed computing framework. *Train, Tune, and Serve Image Classifiers with ease.*
 
 ## Introduction
 The goal of this repository is to explore the model training, tuning, and serving using the Ray Framework. You might be wondering, why Ray? Over the past four years, my curiosity has been fueled by the desire to understand how these massive models are trained. Think about it&mdash;training a vision transformer on your laptop with millions of parameters or even conducting ablation studies seems like an insurmountable task.
