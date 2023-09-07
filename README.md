@@ -10,7 +10,7 @@ That's where Ray steps in. This remarkable framework offers distributed computin
 Follow the steps outlined in the notebook on understanding how to run the required modules. 
 
 Demo Screenshot:
-<img src="https://github.com/DhavalkumarPatel/ImageClassification-with-Pytorch-Ray/blob/main/notebooks/demo.png" style="width:500px;height:250;">
+<img src="https://github.com/DhavalkumarPatel/ImageClassification-with-Pytorch-Ray/blob/main/notebooks/demo.png">
 
 
 ## Credits and References
