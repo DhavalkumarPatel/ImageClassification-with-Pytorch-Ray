@@ -9,6 +9,10 @@ That's where Ray steps in. This remarkable framework offers distributed computin
 ## Getting Started
 Follow the steps outlined in the notebook on understanding how to run the required modules. 
 
+Demo Screenshot:
+<img src="https://github.com/DhavalkumarPatel/ImageClassification-with-Pytorch-Ray/blob/main/notebooks/demo.png" style="width:500px;height:250;">
+
+
 ## Credits and References
 - [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) by [Goku Mohandas](https://www.linkedin.com/in/goku/)
 - [pytorch/examples](https://github.com/pytorch/examples)
